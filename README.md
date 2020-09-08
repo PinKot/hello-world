@@ -1,6 +1,7 @@
 # hello-world
 Git learning repository
 
+##Title 2 ----
 ##Header 2 ====
 
 Hello --- world!
